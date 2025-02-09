@@ -2,7 +2,7 @@
 A Study Using fMRI Data from Three Human Connectome Project Studies (HCP-Development, HCP-Young Adults, HCP-Aging) 
 ## Description
 
-This folder contains the functions we developed for our proposed clustering-enabled regression approach in the paper *Analysis of Functional Connectivity Changes from Childhood to Old Age: A Study Using HCP-D, HCP-YA, and HCP-A*. 
+This folder contains the functions developed to implement our proposed clustering-enabled regression method in the paper *Analysis of Functional Connectivity Changes from Childhood to Old Age: A Study Using HCP-D, HCP-YA, and HCP-A*. 
 
 
 ## Usage
